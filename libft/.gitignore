@@ -1,0 +1,7 @@
+*.o
+*.a
+/test_libft
+/test_part[123]
+/test_part*_san
+/test_part*_failure
+.DS_Store
